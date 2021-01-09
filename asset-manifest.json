@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/robots-chuck-norris/static/js/main.57f6e63c.chunk.js",
+    "main.js.map": "/robots-chuck-norris/static/js/main.57f6e63c.chunk.js.map",
+    "runtime-main.js": "/robots-chuck-norris/static/js/runtime-main.3883d8e2.js",
+    "runtime-main.js.map": "/robots-chuck-norris/static/js/runtime-main.3883d8e2.js.map",
+    "static/js/2.8305c37e.chunk.js": "/robots-chuck-norris/static/js/2.8305c37e.chunk.js",
+    "static/js/2.8305c37e.chunk.js.map": "/robots-chuck-norris/static/js/2.8305c37e.chunk.js.map",
+    "index.html": "/robots-chuck-norris/index.html",
+    "static/js/2.8305c37e.chunk.js.LICENSE.txt": "/robots-chuck-norris/static/js/2.8305c37e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3883d8e2.js",
+    "static/js/2.8305c37e.chunk.js",
+    "static/js/main.57f6e63c.chunk.js"
+  ]
+}
